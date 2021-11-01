@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cortez1488
 - 👀 I’m interested in Python/Django/Backend
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Django/Data bases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
