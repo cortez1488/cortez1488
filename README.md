@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cortez1488
-- 👀 I’m interested in Python/Django/Backend
+- 👀 I’m interested in Golang/Python/Django/Backend
 - 🌱 I’m currently learning golang, web-python(django etc.), a little js, sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
